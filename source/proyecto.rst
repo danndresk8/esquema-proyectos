@@ -29,5 +29,7 @@ Modulos
 -------
 1. Crear Evento: este modulo será el encargado de la creación de los eventos, tanto el administrador como el artista podrán crearlos,
 al crear un evento se le debe asignar una lugar, un fecha y hora, una descripción que en sí será un resumen de lo que se espera de la actividad y usuarios si es que desean incorporarse.
+
 2. Crear Usuario: el visitante que desee dar seguimiento a un artista o un evento debe estar registrado, el registrarse otorga al usuario poder modificar la información de su perfil, recibir cápsulas culturales, consultar un evento o artista. En el caso del artista el podrá agregar a su perfil el área en el cual se desarrolla y fotos que difundan su arte.
+
 3.Gestión de Información: Poder manejar la información que se transite entre usuarios, un mediador.
