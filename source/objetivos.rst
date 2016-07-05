@@ -1,60 +1,61 @@
-"Nombre del proyecto"
+**Proyecto Casa de La Cultura**
 ====================
 
-Sustituya con el nombre del proyecto.
 
 
-Breve historia del proyecto
+
+*Breve historia del proyecto*
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
+El proyecto se da a conocer por medio de un intermediario entre la Casa de la
+Cultura y los desarrolladores del mismo; se estipula de esta manera entre las
+partes Cliente-Desarrollador ya que el actual gobierno sufre de una
+transformación drástica en la estructura organizacional. Las personas
+involucradas en tal proyecto son a nivel general: La Casa de la Cultura como
+cliente de nuestro software a desarrollar, un intermediario que genera la
+suficiente información para su posterior análisis y nosotros los
+desarrolladores que estamos encargados del total análisis y diseño de la
+solución.
 
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
+Las actividades que ejerce nuestro cliente son la de organización sobre todo
+evento que conlleve a difundir la cultura y fomentar el arte en toda área de
+Quetzaltenango. Por lo cual necesitamos automatizar por medio de un sistema la
+mayor parte de estas actividades.
 
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+En principio buscamos facilitar el acceso al artista en la plataforma, para
+luego brindar al usuario y al mismo cliente información básica que sea accedida
+por medio de él para contactar un servicio o ver una trayectoria de tal
+artista. La forma en que podemos brindar a los visitantes una retroalimentación
+para enriquecer la interculturalidad.
 
 
-Empresa a la que se dirige el sistema
+*Casa De La Cultura*
 -------------------------------------
 
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
+En un centro de carácter cultural ubicado en la ciudad de Quetzaltenango, sus
+funciones principales el rescate de las entidades culturales, esto incluye
+museos, también las artes como arqueología, deporte, pintura, etc. Además de
+difundir o destacar a las personas sobresalientes en esa rama.
 
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
+:Intermediario: Ernesto Pacheco
+:Email: fabricadeleyendas@gmail.com
 
 
-Misión del proyecto
+*Misión del proyecto*
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+La misión es poder fomentar de una forma sencilla el acceso a la información
+de los artistas para que los visitantes puedan difundir eventos creados por los
+artistas y generar formación cultural en Quetzaltenango.
 
 
-Objetivos del proyecto
+*Objetivos del proyecto*
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
+Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión que
+el sistema tiene.
 
-* Specific
-
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+- Aumento de artistas contactados para eventos durante determinado tiempo.
+- Documentar todo tipo de evento para generar estadísticas que determinen cuáles eventos son prioridad y cuáles hay que apoyar.
+- Aumento de eventos culturales en la ciudad de Quetzalnango, este dato es de total relevancia.
+- Cantidad porcentual elevada de los usuarios quienes reciben una capsula de información cultural.
