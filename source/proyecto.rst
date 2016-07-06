@@ -1,11 +1,11 @@
-**Proyecto Casa de La Cultura**
+**Formá Cultura**
 ===========
 
 Descripción General
 -------------------
 
 El sistema como un conjunto de elementos relacionados entre sí busca facilitar el acceso a la información de los artistas quetzaltecos y al mismo tiempo
-brindar datos que generen nueva información para la dirección de la Casa de la
+brindar datos que generen nueva información y de forma continua a la toma de decisiones para la dirección de la Casa de la
 Cultura.
 
 El benefactor en este sistema a desarrollar será el artista que podrá influir
@@ -27,9 +27,23 @@ El poder enviar cápsulas informativas el administrador se encargará de esta pa
 -------
 Modulos
 -------
-1. Crear Evento: este modulo será el encargado de la creación de los eventos, tanto el administrador como el artista podrán crearlos,
-al crear un evento se le debe asignar una lugar, un fecha y hora, una descripción que en sí será un resumen de lo que se espera de la actividad y usuarios si es que desean incorporarse.
 
-2. Crear Usuario: el visitante que desee dar seguimiento a un artista o un evento debe estar registrado, el registrarse otorga al usuario poder modificar la información de su perfil, recibir cápsulas culturales, consultar un evento o artista. En el caso del artista el podrá agregar a su perfil el área en el cual se desarrolla y fotos que difundan su arte.
+Gestión Artista:
+^^^^^^^^^^^^^^^^
+Este módulo va estar encargado del registro del artista en el sistema, este módulo otorga al artista modificar incluir en su perfil información acorde al arte en desarrollo, poder crear eventos, toda información debe ser validada por el administrador.
 
-3.Gestión de Información: Poder manejar la información que se transite entre usuarios, un mediador.
+Gestión Usuario:
+^^^^^^^^^^^^^^^^
+El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información está validada también por el administrador.
+
+Gestión Evento:
+^^^^^^^^^^^^^^^^
+Este módulo esta encargado de la creación de eventos, los cuales pueden ser creados por el artista o el administrador; al crear un evento debemos asignar un lugar, una fecha y hora, una descripción; y si es un administrador podrá agregar una prioridad al evento y verificar la información creada. Los eventos estarán agregados al calendario.
+
+Estadística:
+^^^^^^^^^^^^^^^^
+El control sobre los datos que nos genera el sistema está a cargo de un administrador, el cual tiene acceso total a los datos y las estadísticas de los eventos, estos datos son recolectados en la base de datos del sistema, datos como total de participantes en un evento, fechas de eventos con mayor ingreso, etc.
+
+Administrador:
+^^^^^^^^^^^^^^^^
+El administrador es el principal actor del sistema, ya que este tiene acceso total a los datos del sistema, además de poder verificar datos de artistas, usuarios y eventos. Las cápsulas que se envían a los usuarios en programada fecha están a cargo de él así como toda gestión de información controlada.
