@@ -1,10 +1,10 @@
-**Proyecto Casa de La Cultura**
+**Proyecto Formá Cultura**
 ====================
 
 
 
 
-*Breve historia del proyecto*
+Breve historia del proyecto
 ---------------------------
 
 El proyecto se da a conocer por medio de un intermediario entre la Casa de la
@@ -13,14 +13,14 @@ partes Cliente-Desarrollador ya que el actual gobierno sufre de una
 transformación drástica en la estructura organizacional. Las personas
 involucradas en tal proyecto son a nivel general: La Casa de la Cultura como
 cliente de nuestro software a desarrollar, un intermediario que genera la
-suficiente información para su posterior análisis y nosotros los
-desarrolladores que estamos encargados del total análisis y diseño de la
-solución.
+suficiente información para su posterior análisis y mi persona, que estoy encargado del total análisis y diseño de la
+solución, decidí llamar al proyecto de Formá Cultura, ya que no depende una entidad sino de nosotros mismo para fomentar el respeto y el amor al arte.
 
 Las actividades que ejerce nuestro cliente son la de organización sobre todo
 evento que conlleve a difundir la cultura y fomentar el arte en toda área de
 Quetzaltenango. Por lo cual necesitamos automatizar por medio de un sistema la
-mayor parte de estas actividades.
+mayor parte de estas actividades, la cuales también buscan reforzar los eventos 
+en la ciudad altense.
 
 En principio buscamos facilitar el acceso al artista en la plataforma, para
 luego brindar al usuario y al mismo cliente información básica que sea accedida
@@ -29,7 +29,10 @@ artista. La forma en que podemos brindar a los visitantes una retroalimentación
 para enriquecer la interculturalidad.
 
 
-*Casa De La Cultura*
+:Intermediario: Ernesto Pacheco
+:Email: fabricadeleyendas@gmail.com
+
+Casa De La Cultura
 -------------------------------------
 
 En un centro de carácter cultural ubicado en la ciudad de Quetzaltenango, sus
@@ -37,25 +40,24 @@ funciones principales el rescate de las entidades culturales, esto incluye
 museos, también las artes como arqueología, deporte, pintura, etc. Además de
 difundir o destacar a las personas sobresalientes en esa rama.
 
-:Intermediario: Ernesto Pacheco
-:Email: fabricadeleyendas@gmail.com
 
 
-*Misión del proyecto*
+Misión del proyecto
 -------------------
 
-La misión es poder fomentar de una forma sencilla el acceso a la información
-de los artistas para que los visitantes puedan difundir eventos creados por los
-artistas y generar formación cultural en Quetzaltenango.
+Se busca generar una aplicación que genere fácil acceso a los artistas y visitantes para poder formar a mejor manera la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el departamento de Cultura.
 
 
-*Objetivos del proyecto*
+Objetivos del proyecto
 ----------------------
+Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión, los desafíos que el sistema debe alcanzar.
 
-Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión que
-el sistema tiene.
+*Objetivos SMART*
+~~~~~~~~~~~~~~~~~~~~~~
 
-- Aumento de artistas contactados para eventos durante determinado tiempo.
-- Documentar todo tipo de evento para generar estadísticas que determinen cuáles eventos son prioridad y cuáles hay que apoyar.
-- Aumento de eventos culturales en la ciudad de Quetzalnango, este dato es de total relevancia.
-- Cantidad porcentual elevada de los usuarios quienes reciben una capsula de información cultural.
+- Medir por medio de las reseñas los eventos a los cuales hay mas auge de personas.
+- Reducir el tiempo de búsqueda por medio de listas sobre un artista en específico.
+- Reducir costo-tiempo de los artistas al registrarse en el sistema.
+- El uso porcentual de la aplicación debe ir en aumento durante el periodo actual de gobierno.
+- Cantidad de usuarios que hagan uso de la aplicación, 500 por año.
+
