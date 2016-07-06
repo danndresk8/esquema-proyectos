@@ -1,4 +1,4 @@
-**Proyecto Formá Cultura**
+**Formá Cultura**
 ====================
 
 
