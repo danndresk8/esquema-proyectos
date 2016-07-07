@@ -32,13 +32,13 @@ Modulos
  ^^^^^^^^^^^^^^^^^
 Este módulo va estar encargado del registro del artista en el sistema, este módulo otorga al artista modificar incluir en su perfil información acorde al arte en desarrollo, poder crear eventos, toda información debe ser validada por el administrador.
  
-    Diagrama de caso de uso: :ref:`referencia-b`.
+    Diagrama de caso de uso: :ref:`Artista <referencia-b>`.
 
  - Gestión Usuario
  ^^^^^^^^^^^^^^^^
 El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información está validada también por el administrador.
 
-    Diagrama de caso de uso: :ref:`referencia-c`.
+    Diagrama de caso de uso: :ref:`Usuario <referencia-c>`.
 
  - Gestión Evento
  ^^^^^^^^^^^^^^^^
@@ -55,4 +55,4 @@ El administrador es el principal actor del sistema, ya que este tiene acceso tot
   Diagrama de caso de uso: :ref:`referencia-d`.
   
   
-Caso de Uso General:  :ref:`referencia-a`.
+Caso de Uso General:  :ref:`Administrador <referencia-a>`.
