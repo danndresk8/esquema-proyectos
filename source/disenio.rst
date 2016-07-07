@@ -10,27 +10,25 @@ cada módulo.
 Caso General
 ^^^^^^^^^^^^
 .. figure:: imagen/casoProyecto.png
-  :aling: center
+
   .. _referencia-a:
   
 Caso Artista
 ^^^^^^^^^^^^
 .. figure:: imagen/casoArtista.png
- :aling: center
  
   .. _referencia-b:
   
 Caso Usuario
 ^^^^^^^^^^^^
 .. figure:: imagen/casoUsuario.png
-  :aling: center
   
    .. _referencia-c:
  
 Caso Administrador y Estadística
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imagen/casoAdmin.png
- :aling: center
+
    .. _referencia-d:
 
 Clases
