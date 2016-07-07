@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Proyecto Casa Cultura"'
-copyright = u'2016, Daniel Pacheco'
+project = u'Documentación de proyecto "Proyecto FormáCultura"'
+copyright = u'2016, Daniel Andrés Pacheco Leiva'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -179,7 +179,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DocumentacindeproyectoNombredoc'
+htmlhelp_basename = 'DocumentacindeproyectoFormáCultura'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -205,14 +205,10 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'DocumentacionProyectoCasaCultura.tex', u'Documentación de proyecto "Casa Cultura"',
+  ('index', 'DocumentacionProyectoFormáCultura.tex', u'Documentación de proyecto "FormáCultura"',
    u'Daniel Pacheco', 'Manual', False),
 ]
- texinfo_documents = [
- +  ('index', 'DocumentacionProyectoCasaCultura', u'Documentación de Proyecto Casa Cultura',
- +   u'Daniel Pacheco', 'Documentacion Proyecto Casa Cultura', 'Manual Descripcion',
- +   'Manual',False),
-  ]
+
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
@@ -239,12 +235,33 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'documentacindeproyectonombre', u'Documentación de proyecto "Nombre" Documentation',
-     [u'Alumno'], 1)
+    ('index', 'documentacindeproyectoFormáCultura', u'Documentación de proyecto "FormáCultura" Documentation',
+     [u'Daniel Andrés Pacheco Leiva'], 1)
 ]
 
 # If true, show URL addresses after external links.
 #man_show_urls = False
+# -- Options for Texinfo output -------------------------------------------
 
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+  ('index', 'DocumentacindeproyectoFormáCultura', u'Documentación de proyecto "FormáCultura" Documentation',
+   u'Daniel Andrés Pacheco Leiva', 'DocumentacindeproyectoFormáCultura', 'One line description of project.',
+   'Miscellaneous'),
+]
+
+# Documents to append as an appendix to all manuals.
+#texinfo_appendices = []
+
+# If false, no module index is generated.
+#texinfo_domain_indices = True
+
+# How to display URL addresses: 'footnote', 'no', or 'inline'.
+#texinfo_show_urls = 'footnote'
+
+# If true, do not generate a @detailmenu in the "Top" node's menu.
+#texinfo_no_detailmenu = False
 
 
