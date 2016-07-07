@@ -28,31 +28,31 @@ El poder enviar cápsulas informativas el administrador se encargará de esta pa
 Modulos
 -------
 
-Gestión Artista:
-^^^^^^^^^^^^^^^^
+- Gestión Artista
+^^^^^^^^^^^^^^^^^
 Este módulo va estar encargado del registro del artista en el sistema, este módulo otorga al artista modificar incluir en su perfil información acorde al arte en desarrollo, poder crear eventos, toda información debe ser validada por el administrador.
  
-    Diagrama de caso de uso: :ref:`referencia-cArtista`.
+    diagrama de caso de uso: :ref:`referencia-b`.
 
-Gestión Usuario:
+-Gestión Usuario
 ^^^^^^^^^^^^^^^^
 El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información está validada también por el administrador.
 
-    Diagrama de caso de uso: :ref:`referencia-cUsuario`.
+    diagrama de caso de uso: :ref:`referencia-c`.
 
-Gestión Evento:
-^^^^^^^^^^^^^^^^
+-Gestión Evento
+^^^^^^^^^^^^^^^
 Este módulo esta encargado de la creación de eventos, los cuales pueden ser creados por el artista o el administrador; al crear un evento debemos asignar un lugar, una fecha y hora, una descripción; y si es un administrador podrá agregar una prioridad al evento y verificar la información creada. Los eventos estarán agregados al calendario.
 
-Estadística:
-^^^^^^^^^^^^^^^^
+-Estadística
+^^^^^^^^^^^^
 El control sobre los datos que nos genera el sistema está a cargo de un administrador, el cual tiene acceso total a los datos y las estadísticas de los eventos, estos datos son recolectados en la base de datos del sistema, datos como total de participantes en un evento, fechas de eventos con mayor ingreso, etc.
 
-Administrador:
-^^^^^^^^^^^^^^^^
+-Administrador
+^^^^^^^^^^^^^^
 El administrador es el principal actor del sistema, ya que este tiene acceso total a los datos del sistema, además de poder verificar datos de artistas, usuarios y eventos. Las cápsulas que se envían a los usuarios en programada fecha están a cargo de él así como toda gestión de información controlada.
 
-  Diagrama de caso de uso: :ref:`referencia-cAdmin`.
+  diagrama de caso de uso: :ref:`referencia-d`.
   
   
-Caso de Uso General:  :ref:`referencia-cGeneral`.
+Caso de Uso General:  :ref:`referencia-a`.
