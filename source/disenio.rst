@@ -9,27 +9,28 @@ cada módulo.
 
 Caso General
 ^^^^^^^^^^^^
+.. _referencia-a:
 .. figure:: imagen/casoProyecto.png
 
-  .. _referencia-a:
+
   
 Caso Artista
 ^^^^^^^^^^^^
+.. _referencia-b:
 .. figure:: imagen/casoArtista.png
  
-  .. _referencia-b:
-  
+
 Caso Usuario
 ^^^^^^^^^^^^
+.. _referencia-c:
 .. figure:: imagen/casoUsuario.png
   
-   .. _referencia-c:
  
 Caso Administrador y Estadística
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _referencia-d:
 .. figure:: imagen/casoAdmin.png
 
-   .. _referencia-d:
 
 Clases
 ------
