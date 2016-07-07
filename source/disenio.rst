@@ -11,25 +11,27 @@ Caso General
 ^^^^^^^^^^^^
 .. figure:: imagen/casoProyecto.png
   :aling: center
-  .. _referencia-cGeneral:
+  .. _referencia-a:
   
 Caso Artista
 ^^^^^^^^^^^^
 .. figure:: imagen/casoArtista.png
  :aling: center
-  .. _referencia-cArtista:
+ 
+  .. _referencia-b:
   
 Caso Usuario
 ^^^^^^^^^^^^
 .. figure:: imagen/casoUsuario.png
   :aling: center
-   .. _referencia-cUsuario:
+  
+   .. _referencia-c:
  
 Caso Administrador y Estadística
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imagen/casoAdmin.png
  :aling: center
-   .. _referencia-cAdmin:
+   .. _referencia-d:
 
 Clases
 ------
