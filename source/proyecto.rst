@@ -52,7 +52,7 @@ El control sobre los datos que nos genera el sistema está a cargo de un adminis
  ^^^^^^^^^^^^^^
 El administrador es el principal actor del sistema, ya que este tiene acceso total a los datos del sistema, además de poder verificar datos de artistas, usuarios y eventos. Las cápsulas que se envían a los usuarios en programada fecha están a cargo de él así como toda gestión de información controlada.
 
-  Diagrama de caso de uso: :ref:`referencia-d`.
+  Diagrama de caso de uso: :ref:`Administrador <referencia-d>`.
   
   
-Caso de Uso General:  :ref:`Administrador <referencia-a>`.
+Caso de Uso General:  :ref:`Vista Previa <referencia-a>`.
