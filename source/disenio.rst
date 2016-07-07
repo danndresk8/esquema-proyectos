@@ -7,8 +7,29 @@ Casos de Uso
 Se colocan los distintos casos de uso, tanto para la aplicación general como para
 cada módulo.
 
-
-.. image:: image/casoUso.png
+Caso General
+^^^^^^^^^^^^
+.. figure:: imagen/casoProyecto.png
+  :aling: center
+  .. _referencia-cGeneral:
+  
+Caso Artista
+^^^^^^^^^^^^
+.. figure:: imagen/casoArtista.png
+ :aling: center
+  .. _referencia-cArtista:
+  
+Caso Usuario
+^^^^^^^^^^^^
+.. figure:: imagen/casoUsuario.png
+  :aling: center
+   .. _referencia-cUsuario:
+ 
+Caso Administrador y Estadística
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: imagen/casoAdmin.png
+ :aling: center
+   .. _referencia-cAdmin:
 
 Clases
 ------
