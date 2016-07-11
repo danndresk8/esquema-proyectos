@@ -14,7 +14,7 @@ transformación drástica en la estructura organizacional. Las personas
 involucradas en tal proyecto son a nivel general: La Casa de la Cultura como
 cliente de nuestro software a desarrollar, un intermediario que genera la
 suficiente información para su posterior análisis y mi persona, que estoy encargado del total análisis y diseño de la
-solución, decidí llamar al proyecto de Formá Cultura, ya que no depende una entidad sino de nosotros mismo para fomentar el respeto y el amor al arte.
+solución, decidí llamar al proyecto de Formá Cultura, ya que no depende de una entidad sino de nosotros mismos para fomentar el respeto y el amor al arte.
 
 Las actividades que ejerce nuestro cliente son la de organización sobre todo
 evento que conlleve a difundir la cultura y fomentar el arte en toda área de
@@ -38,14 +38,14 @@ Casa De La Cultura
 En un centro de carácter cultural ubicado en la ciudad de Quetzaltenango, sus
 funciones principales el rescate de las entidades culturales, esto incluye
 museos, también las artes como arqueología, deporte, pintura, etc. Además de
-difundir o destacar a las personas sobresalientes en esa rama.
+difundir o destacar a las personas sobresalientes en esa rama, es importante estar al tanto de las actividades que se automatizarán las cuales conllevan: Un directorio para la gestion de artitas, administración de eventos en el interior del departamento de Quetzaltenango y la difusión de informacion a usuarios por medio de cápsulas.
 
 
 
 Misión del proyecto
 -------------------
 
-Se busca generar una aplicación que genere fácil acceso a los artistas y visitantes para poder formar a mejor manera la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el departamento de Cultura.
+Se busca crea una aplicación que genere fácil acceso a los artistas y visitantes para poder formar a mejor manera la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el departamento de Cultura.
 
 
 Objetivos del proyecto
