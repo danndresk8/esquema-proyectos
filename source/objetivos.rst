@@ -1,5 +1,5 @@
 **Formá Cultura**
-====================
+=================
 
 
 
@@ -33,7 +33,7 @@ para enriquecer la interculturalidad.
 :Email: fabricadeleyendas@gmail.com
 
 Casa De La Cultura
--------------------------------------
+------------------
 
 En un centro de carácter cultural ubicado en la ciudad de Quetzaltenango, sus
 funciones principales el rescate de las entidades culturales, esto incluye
@@ -53,7 +53,7 @@ Objetivos del proyecto
 Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión, los desafíos que el sistema debe alcanzar.
 
 *Objetivos SMART*
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 - Medir por medio de las reseñas los eventos a los cuales hay mas auge de personas.
 - Reducir el tiempo de búsqueda por medio de listas sobre un artista en específico.
