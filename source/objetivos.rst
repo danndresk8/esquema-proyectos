@@ -18,7 +18,7 @@ solución, decidí llamar al proyecto de Formá Cultura, ya que no depende de un
 
 Las actividades que ejerce nuestro cliente son la de organización sobre todo
 evento que conlleve a difundir la cultura y fomentar el arte en toda área de
-Quetzaltenango. Por lo cual necesitamos automatizar por medio de un sistema la
+Quetzaltenango, esto incluye un directorio de artistas, la administración de eventos y la difusión de información cultural a los usuarios. Por lo cual necesitamos automatizar por medio del sistema la
 mayor parte de estas actividades, la cuales también buscan reforzar los eventos 
 en la ciudad altense.
 
@@ -45,7 +45,7 @@ difundir o destacar a las personas sobresalientes en esa rama, es importante est
 Misión del proyecto
 -------------------
 
-Se busca crear una aplicación que genere fácil acceso a los artistas y visitantes para poder formar a mejor manera la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el departamento de Cultura.
+Se busca crear una aplicación que genere fácil acceso a los artistas y visitantes para poder incentivar la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el Departamento de Cultura que convellen a la mejora de manejo de eventos culturales y la difusión del arte de los artistas en Quetzaltenango.
 
 
 Objetivos del proyecto
@@ -58,6 +58,7 @@ Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión, l
 - Medir por medio de las reseñas los eventos a los cuales hay mas auge de personas.
 - Reducir el tiempo de búsqueda por medio de listas sobre un artista en específico.
 - Reducir costo-tiempo de los artistas al registrarse en el sistema.
-- El uso porcentual de la aplicación debe ir en aumento durante el periodo actual de gobierno.
-- Cantidad de usuarios que hagan uso de la aplicación, 500 por año.
+- El uso porcentual de la aplicación debe ir en aumento por medio de estadísticas.
+- Aumento de usuarios que hagan uso de la aplicación en un tiempo determinado.
+- Que se tenga una alerta a los encargados de colocar notas culturales cada día y que el contenido no tenga que repetirse.
 
