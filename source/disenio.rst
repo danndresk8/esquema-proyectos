@@ -11,25 +11,40 @@ Caso General
 ^^^^^^^^^^^^
 .. _referencia-a:
 .. image:: imagen/casoProyecto.png
-
+ :height: 15cm
+ :width: 15cm
+ :scale: 100%
+ :align:  center
 
   
 Caso Artista
 ^^^^^^^^^^^^
 .. _referencia-b:
 .. image:: imagen/casoArtista.png
+ :height: 15cm
+ :width: 15cm
+ :scale: 100%
+ :align:  center
  
 
 Caso Usuario
 ^^^^^^^^^^^^
 .. _referencia-c:
 .. image:: imagen/casoUsuario.png
+ :height: 15cm
+ :width: 15cm
+ :scale: 100%
+ :align:  center
   
  
 Caso Administrador y Estadística
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. _referencia-d:
 .. image:: imagen/casoAdmin.png
+ :height: 15cm
+ :width: 15cm
+ :scale: 100%
+ :align:  center
 
 
 Clases
