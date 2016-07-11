@@ -36,13 +36,13 @@ Este módulo va estar encargado del registro del artista en el sistema, este mó
 
  - Gestión Usuario
  ^^^^^^^^^^^^^^^^
-El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información está validada también por el administrador.
+El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información que el usuario tiene a su disposición está validada por el administrador.
 
     Diagrama de caso de uso: :ref:`Usuario <referencia-c>`.
 
  - Gestión Evento
  ^^^^^^^^^^^^^^^^
-Este módulo esta encargado de la creación de eventos, los cuales pueden ser creados por el artista o el administrador; al crear un evento debemos asignar un lugar, una fecha y hora, una descripción; y si es un administrador podrá agregar una prioridad al evento y verificar la información creada. Los eventos estarán agregados al calendario.
+Este módulo esta encargado de la creación de eventos, los cuales pueden ser creados por el artista o el administrador; al crear un evento debemos asignar un lugar, una fecha y hora, una descripción; y si es un administrador podrá agregar una prioridad al evento y verificar la información creada. Los eventos estarán agregados al calendario, el calendario se mostrará en forma de lista; también podremos agregar al evento un tipo de categoría.
 
 -Estadística
 ^^^^^^^^^^^^
@@ -50,7 +50,7 @@ El control sobre los datos que nos genera el sistema está a cargo de un adminis
 
 - Administrador
  ^^^^^^^^^^^^^^
-El administrador es el principal actor del sistema, ya que este tiene acceso total a los datos del sistema, además de poder verificar datos de artistas, usuarios y eventos. Las cápsulas que se envían a los usuarios en programada fecha están a cargo de él así como toda gestión de información controlada.
+El administrador es el principal actor del sistema, ya que este tiene acceso total a los datos del sistema, además de poder verificar datos de artistas, usuarios y eventos. Las cápsulas que se envían a los usuarios en programada fecha están a cargo de él así como toda gestión de información que se maneje en las mismas, el control total sobre las cuentas de usuarios, artistas y gestion de eventos.
 
   Diagrama de caso de uso: :ref:`Administrador <referencia-d>`.
   
