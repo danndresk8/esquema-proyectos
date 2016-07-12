@@ -45,20 +45,17 @@ difundir o destacar a las personas sobresalientes en esa rama, es importante est
 Misión del proyecto
 -------------------
 
-Se busca crear una aplicación que genere fácil acceso a los artistas y visitantes para poder incentivar la cultura de Quetzaltenango, gestionando toda información recibida para la toma de decisiones en el Departamento de Cultura que convellen a la mejora de manejo de eventos culturales y la difusión del arte de los artistas en Quetzaltenango.
+Se busca crear una aplicación que gestione toda información recibida para la toma de decisiones en el Departamento de Cultura que convellen a la mejora de eventos culturales, la difusión del arte de los artistas y rescate de las entidades culturales en Quetzaltenango generando la aplicación fácil acceso a los artistas y visitantes para poder incentivar.
 
 
 Objetivos del proyecto
 ----------------------
 Los objetivos del proyecto nos darán una pauta mas acertada sobre la misión, los desafíos que el sistema debe alcanzar.
 
-*Objetivos SMART*
-~~~~~~~~~~~~~~~~~
 
 - Medir por medio de las reseñas los eventos a los cuales hay mas auge de personas.
 - Reducir el tiempo de búsqueda por medio de listas sobre un artista en específico.
 - Reducir costo-tiempo de los artistas al registrarse en el sistema.
-- El uso porcentual de la aplicación debe ir en aumento por medio de estadísticas.
 - Aumento de usuarios que hagan uso de la aplicación en un tiempo determinado.
 - Que se tenga una alerta a los encargados de colocar notas culturales cada día y que el contenido no tenga que repetirse.
 
