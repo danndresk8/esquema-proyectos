@@ -56,3 +56,5 @@ El administrador es el principal actor del sistema, ya que este tiene acceso tot
   
   
 Caso de Uso General:  :ref:`Vista Previa <referencia-a>`.
+
+Modelo Entidad-Relación: :ref:`Vista Previa <referencia-bd>`.
