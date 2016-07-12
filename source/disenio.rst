@@ -49,7 +49,7 @@ Caso Administrador
 
 Diagrama de BD
 --------------
-En esta sección se muestra el modelo entidad-relación del sistema a implementar, es una idea que disponemos para implementar la base de datos y mostrar como los datos se relacionan entre sé.
+En esta sección se muestra el modelo entidad-relación del sistema Formá Cultura, es una idea que disponemos para implementar la base de datos y mostrar como los datos se relacionan entre sé.
 
 Las bases de datos son un gran pilar de la programación actual, ya que nos permiten almacenar y usar de forma rápida y eficiente cantidades enormes de datos con una facilidad inmediata.
 
