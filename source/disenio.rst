@@ -37,8 +37,8 @@ Caso Usuario
  :align:  center
   
  
-Caso Administrador y Estadística
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Caso Administrador
+^^^^^^^^^^^^^^^^^^
 .. _referencia-d:
 .. image:: imagen/casoAdmin.png
  :height: 15cm
