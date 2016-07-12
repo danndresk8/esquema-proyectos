@@ -53,7 +53,7 @@ En esta sección se muestra el modelo entidad-relación del sistema Formá Cultu
 
 Las bases de datos son un gran pilar de la programación actual, ya que nos permiten almacenar y usar de forma rápida y eficiente cantidades enormes de datos con una facilidad inmediata.
 
-.. _referencia-d:
+.. _referencia-bd:
 .. image:: imagen/ERD.png
  :height: 15cm
  :width: 15cm
