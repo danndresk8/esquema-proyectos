@@ -1,5 +1,5 @@
 **Formá Cultura**
-===========
+=================
 
 Descripción General
 -------------------
@@ -29,23 +29,23 @@ Modulos
 -------
 
 - Gestión Artista
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 Este módulo va estar encargado del registro del artista en el sistema, este módulo otorga al artista modificar incluir en su perfil información acorde al arte en desarrollo, poder crear eventos, toda información debe ser validada por el administrador.
  
     Diagrama de caso de uso: :ref:`Artista <referencia-b>`.
 
 - Gestión Usuario
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 El control sobre los usuarios permite, que los visitantes se registren en el sistema, que puedan consultar eventos y confirmar la asistencia a dichos eventos, poder contactar a un artista y recibir cápsulas informativas; la información que el usuario tiene a su disposición está validada por el administrador.
 
     Diagrama de caso de uso: :ref:`Usuario <referencia-c>`.
 
 - Gestión Evento
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 Este módulo esta encargado de la creación de eventos, los cuales pueden ser creados por el artista o el administrador; al crear un evento debemos asignar un lugar, una fecha y hora, una descripción; y si es un administrador podrá agregar una prioridad al evento y verificar la información creada. Los eventos estarán agregados al calendario, el calendario se mostrará en forma de lista; también podremos agregar al evento un tipo de categoría.
 
 - Estadística
-^^^^^^^^^^^^
+^^^^^^^^^^^^^
 El control sobre los datos que nos genera el sistema está a cargo de un administrador, el cual tiene acceso total a los datos y las estadísticas de los eventos, estos datos son recolectados en la base de datos del sistema, datos como total de participantes en un evento, fechas de eventos con mayor ingreso, etc.
 
 - Administrador
