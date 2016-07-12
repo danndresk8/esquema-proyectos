@@ -45,7 +45,7 @@ difundir o destacar a las personas sobresalientes en esa rama, es importante est
 Misión del proyecto
 -------------------
 
-Se busca crear una aplicación que gestione toda información recibida para la toma de decisiones en el Departamento de Cultura que convellen a la mejora de eventos culturales, la difusión del arte de los artistas y rescate de las entidades culturales en Quetzaltenango generando la aplicación fácil acceso a los artistas y visitantes para poder incentivar.
+Se busca crear una aplicación que gestione toda información recibida para la toma de decisiones en el Departamento de Cultura que convellen a la mejora de eventos culturales, la difusión de artistas y el rescate de las entidades culturales en Quetzaltenango; generando la aplicación fácil acceso a los artistas y visitantes para poder incentivar cultura en el departamento.
 
 
 Objetivos del proyecto
